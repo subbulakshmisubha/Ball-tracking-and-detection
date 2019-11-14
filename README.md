@@ -1,2 +1,2 @@
 # Ball-tracking-and-detection
-Tracking and detection of ball in a video using deep learning algorithms
+Utilizing Temporal Information in Deep Convolutional Network for Efficient Soccer Ball Detection and Tracking in a Video
